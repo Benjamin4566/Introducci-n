@@ -1,0 +1,30 @@
+El proyecto se centrará en el desarrollo de una página web
+tipo biblioteca digital que permita a los usuarios escribir,
+editar y leer textos de manera organizada
+
+Se abordará específicamente:
+
+La creación de libros y capítulos
+La edición de textos
+La lectura de contenido dentro de la plataforma
+
+Las funcionalidades del sistema serán:
+
+Crear textos
+Editar contenido
+Leer historias
+Organizar en capítulos
+
+Los usuarios del sistema serán:
+
+Escritores (crear y editar contenido)
+Lectores (leen y exploran textos)
+El sistema estará dirigido a cualquier persona interesada 
+en la lectura o escritura,sin necesidad de conocimientos técnicos
+
+Quedan fuera del proyecto:
+
+Sistemas de pago(de momento)
+Aplicaciones móviles(de momento)
+El alcance del sistema será ofrecer una plataforma simple,
+accesible y organizada para la creación y lectura de textos digitales
